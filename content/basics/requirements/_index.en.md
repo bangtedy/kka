@@ -39,10 +39,14 @@ Sesuai Keputusan Rektor UPM No:006 tahun 2022 tentang Pelaksanaan Pembelajaran S
 
 #### Buku Acuan
 
-1. Drake, Pamela P. dan Frank J. Fabozzi (2010). The Basic of Finance. An Introduction to Financial Markets, Business Finance, and Portfolio Management. John Wiley & Sons, Inc. 
+1. McCalley, Russell W. (2002). Patterns of Management Power. Quorum Books
 
-2. Brigham, Eugene F. dan Joel F. Houston (2015). Fundamentals of Financial Management,
-Concise Eighth Edition. Cengage Learning.
+2. Nuthall, Peter L. (2019). Farm business management : the human factor. Second edition. CABI.
+
+3. Jordan, John P., Gale A. Buchanan, Neville P. Clarke & Kelly C. (2013) Leadership in Agriculture Case Studies for a New Generation. Concise Eighth Edition. Cengage Learning.
+
+4. Van Fleet, David D., Ella W. Van Fleet, and George J. Seperich (2014). Agribusiness: Principles of Management. Cengage Learning.
+
 
 #### Teknologi yang Diperlukan
 

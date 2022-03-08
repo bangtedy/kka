@@ -32,7 +32,7 @@ Languages:
       shortcuts:
         - identifier: ds
           name: <i class='fab fa-fw fa-github'></i> GitHub repo
-          url: https://github.com/bangtedy/menkeu
+          url: https://github.com/bangtedy/kka
           weight: 10
         - name: <i class='fas fa-fw fa-camera'></i> Showcases
           url: showcase
