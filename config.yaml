@@ -1,14 +1,14 @@
 baseURL: https://menkeu.netlify.app/
 languageCode: en-US
 defaultContentLanguage: en
-title: Hugo Learn Documentation
+title: Kepemimpinan Agribisnis
 theme: hugo-theme-learn
 metaDataFormat: yaml
 defaultContentLanguageInSubdir: yes
 params:
   author: Mathieu Cornic
   customMermaidURL: https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js
-  description: Documentation for Hugo Learn Theme
+  description: Kepemimpinan Agribisnis
   disableBreadcrumb: no
   disableLandingPageButton: yes
   disableMermaid: no
